@@ -12,3 +12,4 @@
 * Problem PP - Pisano periods
 * Problem SF - Fibonacci number system
 * Problem MF - fast exponentiation of 2x2 matrices
+* Problem HWF - Fibonacci nim
