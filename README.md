@@ -1,6 +1,6 @@
 # Problems
-## Part 1
 
+## Part 1
 * Problem RL - recursion into a loop (Euclidean algorithm)
 * Problem CF - continued fractions
 * Problem EE - extended Euclidean algorithm
@@ -13,3 +13,8 @@
 * Problem SF - Fibonacci number system
 * Problem MF - fast exponentiation of 2x2 matrices
 * Problem HWF - Fibonacci nim
+
+## Part 2
+* Problem PN - nth prime number (direct check)
+* Problem SE - sieve of Eratosthenes
+* Problem TS - area of a triangle
