@@ -18,3 +18,7 @@
 * Problem PN - nth prime number (direct check)
 * Problem SE - sieve of Eratosthenes
 * Problem TS - area of a triangle
+* Problem PS - nth prime number (Eratosthenes' sieve)
+* Problem GF - generating formulae
+* Problem CC - circular prime
+* Problem LM - least common multiple
