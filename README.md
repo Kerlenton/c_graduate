@@ -22,3 +22,6 @@
 * Problem GF - generating formulae
 * Problem CC - circular prime
 * Problem LM - least common multiple
+* Problem BP - search for high and low bit set
+* Problem BI - bit inversion by index
+* Problem PE - bitwise sieve
