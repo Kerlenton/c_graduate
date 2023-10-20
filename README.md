@@ -25,3 +25,4 @@
 * Problem BP - search for high and low bit set
 * Problem BI - bit inversion by index
 * Problem PE - bitwise sieve
+* Problem HWE - sieve with radical memory savings
