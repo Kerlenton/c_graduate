@@ -26,3 +26,5 @@
 * Problem BI - bit inversion by index
 * Problem PE - bitwise sieve
 * Problem HWE - sieve with radical memory savings
+* Problem FT - Fermat's test
+* Problem PF - Fib-like prime numbers
