@@ -28,3 +28,10 @@
 * Problem HWE - sieve with radical memory savings
 * Problem FT - Fermat's test
 * Problem PF - Fib-like prime numbers
+
+## Part 3
+* Problem MM - minimum and maximum
+* Problem FY - array shuffle
+* Problem SI - subroutine for sorting by inserts
+* Problem SSE - one iteration of sorting by selection
+* Problem ME - search for majority in array
