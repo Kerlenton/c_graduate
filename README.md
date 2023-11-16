@@ -34,4 +34,9 @@
 * Problem FY - array shuffle
 * Problem SI - subroutine for sorting by inserts
 * Problem SSE - one iteration of sorting by selection
+* Problem CSE - generalised selection sorting
+* Problem SCB - generalised binary search
+* Problem SQ - partitioning for fast sorting
+* Problem MS - merge for merge sorting
+* Problem MP - polynomial multiplication (direct method)
 * Problem ME - search for majority in array
