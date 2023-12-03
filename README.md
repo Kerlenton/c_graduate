@@ -40,3 +40,6 @@
 * Problem MS - merge for merge sorting
 * Problem MP - polynomial multiplication (direct method)
 * Problem ME - search for majority in array
+* Problem CST - sorting by counting
+* Problem RS - bitwise sorting
+* Problem PX - matrix degree expansion
